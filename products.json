@@ -1,0 +1,47 @@
+[
+    {
+        "name" : "xiome",
+        "price" : 333,
+        "featured" : true,
+        "company" : "mi" 
+        },
+        {
+        "name" : "galaxy",
+        "price" : 444,
+        "featured" : true,
+        "company" : "samsung" 
+        },{
+        "name" : "iphone",
+        "price" : 555,
+        "company" : "apple" 
+        },{
+        "name" : "xps",
+        "price" : 666,
+        "company" : "dell" 
+        },
+        {
+            "name" : "galaxy",
+            "price" : 451,
+            "featured" : false,
+            "company" : "samsung" 
+            },
+            {
+                "name" : "xps",
+                "price" : 689,
+                "company" : "dell" 
+            },
+            {
+                "name" : "iphone",
+                "price" : 789,
+                "company" : "apple" 
+                },
+        {
+        "name" : "xiome",
+        "price" : 777,
+        "company" : "mi" 
+        }
+
+        
+]
+
+    
